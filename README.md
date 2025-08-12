@@ -1,2 +1,2 @@
 # disciplina-desenvolvimento-mobile
-Códigos do Dev mobile
+Alterando dados de maneira local  
